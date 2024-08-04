@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Chiraag Kc // Data scientist
+      label: Chiraag Kc
       color: text-primary
       type: Badge
     elementId: ''
